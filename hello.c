@@ -2,4 +2,6 @@
 int main()
 {
 	printf("hello!\n");
-	}
+}
+
+void fun(){}
